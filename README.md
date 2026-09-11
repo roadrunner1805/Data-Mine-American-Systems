@@ -36,5 +36,3 @@ OrbitWatch identifies and characterizes anomalous behavioral shifts in Geosynchr
    +-----------------------+
    | Threat Scoring Engine | ----> Mapped to MITRE ATT&CK / SPARTA Matrix
    +-----------------------+
-
-![Preview](https://github.com/user-attachments/assets/12d70534-501d-4a4d-9b47-4da4acec3388)
